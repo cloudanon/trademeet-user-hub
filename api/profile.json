@@ -1,13 +1,13 @@
 {
-  "type": ["developer", "entrepeneur"],
+  "type": ["developer"],
   "head_img": "https://place-hold.it/1330x300",
   "user": {
     "firstname": "john",
     "lastname": "smith",
-    "age": "99",
+    "age": "999",
     "gender": "male",
     "country": "Australia",
-    "city": "Melbourne",
+    "city": "Sydney",
     "biography": "some biography text here"
   },
   "skills": [{
