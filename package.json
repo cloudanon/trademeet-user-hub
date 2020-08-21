@@ -1,0 +1,12 @@
+{
+  "name": "trademeet-user-hub",
+  "version": "1.0.0",
+  "description": " trademeet user hub template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["trademeet"],
+  "author": "ben eaves",
+  "license": "MIT"
+}

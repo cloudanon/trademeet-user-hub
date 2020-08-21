@@ -1,0 +1,56 @@
+{
+  "type": ["developer", "entrepeneur"],
+  "user": {
+    "firstname": "john",
+    "lastname": "smith",
+    "age": "99",
+    "gender": "male",
+    "country": "Australia",
+    "city": "Melbourne",
+    "biography": "some biography text here"
+  },
+  "skills": [{
+    "type": "javascript",
+    "years": "100",
+    "level": "expert"
+  },{
+    "type": "nodejs",
+    "years": "1000",
+    "level": "expert"
+  },{
+    "type": "nodejs",
+    "years": "10",
+    "level": "advanced"
+  },{
+    "type": "php",
+    "years": "10",
+    "level": "beginner"
+  }],
+  "work_history":[{
+    "title": "some job title",
+    "organization": "some job organization",
+    "duration": "1 year",
+    "role": "some role description"
+  },{
+    "title": "some job title 2",
+    "organization": "some job organization 2",
+    "duration": "2 years",
+    "role": "some role description 2"
+  }],
+  "contact": [{
+    "type": "email 1",
+    "data": "user@email.com"
+  },{
+    "type": "email 2",
+    "data": "user2@email.com"
+  }],
+  "showcase":[{
+    "title": "some project",
+    "description": "some project description",
+    "link": "https://www.some-link-to-project.com"
+  },{
+    "title": "some project 2",
+    "description": "some project description 2",
+    "link": "https://www.some-link-to-project2.com"
+  }]
+}
